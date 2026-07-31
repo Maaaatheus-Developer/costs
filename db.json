@@ -1,0 +1,250 @@
+{
+  "projects": [
+    {
+      "name": "sadasd",
+      "budget": "2122",
+      "categories": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": "1"
+    },
+    {
+      "name": "TESTE123",
+      "budget": "1223221",
+      "categories": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": "RDK-RyfY2Z0"
+    },
+    {
+      "name": "brazuca do js",
+      "budget": "15000",
+      "categories": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [
+        {
+          "id": "12b1cfd8-2e83-4572-a76b-319805d432d7"
+        },
+        {
+          "id": "12b1cfd8-2e83-4572-a76b-319805d432d7"
+        },
+        {
+          "id": "7a3ad6bc-464e-4df8-9658-c9bad2da0db7"
+        },
+        {
+          "id": "7a3ad6bc-464e-4df8-9658-c9bad2da0db7"
+        }
+      ],
+      "id": "LjMk2rsyLCY"
+    },
+    {
+      "name": "ssasa",
+      "budget": "121",
+      "categories": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 121,
+      "services": [
+        {
+          "name": "sdsasda",
+          "cost": "121",
+          "description": "2122",
+          "id": "ad38bdd0-c39b-42f1-b9a2-cf41698b5b36"
+        }
+      ],
+      "id": "JzXhyZCtij4"
+    },
+    {
+      "name": "TESTE MSG",
+      "budget": "2112",
+      "categories": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": "xVDMoFnRit4"
+    },
+    {
+      "name": "212112",
+      "budget": "11212",
+      "categories": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 123,
+      "services": [
+        {
+          "name": "teste service",
+          "cost": "123",
+          "description": "teste",
+          "id": "8fb68501-ea9f-4066-8362-e5683246f097"
+        }
+      ],
+      "id": "Wntexq0mQ3k"
+    },
+    {
+      "name": "TESTE",
+      "budget": "21311",
+      "categories": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": "9RkVZemybyY"
+    },
+    {
+      "name": "BANANA AZUL",
+      "budget": "343429",
+      "categories": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": "XGUjsHriPRY"
+    },
+    {
+      "name": "BABABASDASDA",
+      "budget": "21212121221",
+      "categories": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": "d7Cz6BaxFIU"
+    },
+    {
+      "name": "213123",
+      "budget": "213",
+      "categories": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": "tc4ZDJRM6bA"
+    },
+    {
+      "name": "21322112",
+      "budget": "2123",
+      "categories": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": "0jm5yCbAhy8"
+    },
+    {
+      "name": "EDITADO OTARIO2",
+      "budget": "212211",
+      "categories": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": "LyocA2JPVZk"
+    },
+    {
+      "name": "122132xxxxx",
+      "budget": "21231",
+      "categories": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": "-KZpHlNDq70"
+    },
+    {
+      "name": "2121",
+      "budget": "21322",
+      "categories": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": "-VxtIxiDSGo"
+    },
+    {
+      "name": "213112",
+      "budget": "221",
+      "categories": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": "PL029EdSrN8"
+    },
+    {
+      "name": "TESTE ZEBRA",
+      "budget": "2112",
+      "categories": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": "mt1fxQBnyX8"
+    },
+    {
+      "categories": {
+        "id": "3",
+        "name": "Design"
+      },
+      "name": "oi agora",
+      "budget": "1200",
+      "cost": 118,
+      "services": [
+        {
+          "id": "060ea7e2-4fef-4660-b7fd-ce92280402e1"
+        },
+        {
+          "id": "8a6d30b8-d78e-4569-8222-5071ef8a41d2"
+        },
+        {
+          "name": "testeeee",
+          "cost": "118",
+          "description": "ssasasassssa",
+          "id": "6602d34f-5315-4e5b-abf8-1fee2c523944"
+        }
+      ],
+      "id": "1G0WBFAF5Kc"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
