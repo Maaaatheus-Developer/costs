@@ -20,10 +20,12 @@ const NewProject = () => {
         //redirect
         sessionStorage.setItem("projectMessage", "Projeto criado com sucesso!");
         navigate("/projects", {
-          state: { replace: true },
+          state: {
+            message: "Projeto criado com sucesso!",
+          },
         });
         // const location = useLocation();
-        // console.log(location.state);
+        console.log(location.state);
       })
       .catch((err) => console.error(err));
   };
